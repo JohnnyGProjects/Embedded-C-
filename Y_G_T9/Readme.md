@@ -1,7 +1,7 @@
 # 🔢 Seven-Segment Counter with Interrupts (Arduino / AVR)
 
 This project implements a **seven-segment display counter** using an **Arduino-compatible AVR microcontroller**, controlled through **pin-change interrupts (PCINT)**, **Timer1 overflow interrupts**, and a **74HC595 shift register**.  
-The system demonstrates low-level hardware control, interrupt-driven logic, and direct register manipulation without relying on Arduino abstraction libraries.
+The system demonstrates hardware control, interrupt-driven logic, and direct register manipulation without relying on Arduino abstraction libraries.
 
 ---
 
@@ -102,7 +102,7 @@ The system demonstrates low-level hardware control, interrupt-driven logic, and 
 
 This project was created to:
 
-* Demonstrate low-level embedded programming skills
+* Demonstrate embedded programming skills
 * Practice interrupt-driven system design
 * Control external hardware using shift registers
 * Apply AVR timer and interrupt concepts
