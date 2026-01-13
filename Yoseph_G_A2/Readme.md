@@ -119,7 +119,7 @@ This project was created to:
 * Practice interrupt-driven embedded system design
 * Implement USART-based user interaction
 * Control LEDs using hardware PWM
-* Interface with an LCD using low-level register control
+* Interface with an LCD using register control
 
 ---
 
